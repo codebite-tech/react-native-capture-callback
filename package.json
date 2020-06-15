@@ -1,0 +1,27 @@
+{
+  "name": "react-native-capture-callback",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "capturecallback",
+    "capture"
+  ],
+  "homepage": "https://www.npmjs.com/package/react-native-capture-callback",
+  "bugs": {
+    "url": "https://github.com/codebite-tech/react-native-capture-callback/issues",
+    "email": "codebite@naver.com"
+  },
+  "author": "codebite",
+  "license": "MIT",
+  "devDependencies": {
+    "react-native": "^0.62.2"
+  },
+  "peerDependencies": {
+    "react-native": "^0.62.2"
+  }
+}
